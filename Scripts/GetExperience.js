@@ -28,6 +28,11 @@ function updateHTML(configData) {
   document.querySelector("#pfRole").innerHTML = configData.Experience.Role;
   document.querySelector("#pfEmploymentText").innerHTML = configData.Experience.EmploymentText;
 
+  document.querySelector("#expEmp>h2").innerHTML = "Employment";
+  document.querySelector("#pfEmployment2").innerHTML = configData.Experience.Employment2;
+  document.querySelector("#pfRole2").innerHTML = configData.Experience.Role2;
+  document.querySelector("#pfEmploymentText2").innerHTML = configData.Experience.EmploymentText2;
+
   document.querySelector("#expSkills>h2").innerHTML = "Skills";
   document.querySelector("#pfSkills").innerHTML = configData.Experience.Skills.toString();
   document.querySelector("#pfSkillsText").innerHTML = configData.Experience.SkillsText;
