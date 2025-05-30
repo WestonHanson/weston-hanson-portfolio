@@ -1,0 +1,60 @@
+{
+"About": {
+  "Name": "Weston Hanson",
+  "Currently": "Computer Science Student",
+  "Headshot": "weston-suit-prom.jpg",
+  "Thumbnail": "weston-suit-prom.jpg",
+  "AboutText": "Hi, I am Weston Hanson. I am a passionate computer science student with a keen interest in software development and programming. Currently, I am pursuing my undergraduate degree at Seattle Pacific University. I am dedicated to expanding my knowledge and skills in various areas of computer science, with a particular focus on C++ programming.<br><br>I enjoy tackling challenging programming projects and I thrive in collaborative environments where I can contribute my expertise and learn from my peers.<br><br>Beyond the classroom, I actively engage in extracurricular activities related to computer science, including hackathons, coding competitions, and open-source contributions. I believe in the importance of continuous learning and seek out opportunities to explore new technologies and methodologies."
+},
+"Contact": {
+  "EMail": "hansonw@spu.edu",
+  "Phone": "(206) 902-0669",
+  "Portfolio": "https://www.github.com",
+  "LinkedIn": "https://www.linkedin.com/in/westonhanson/",
+  "GitHub": "https://github.com/WestonHanson"
+},
+"Experience": {
+  "ExperienceText": "I am currently a Computer Science Lab Assistant at Seattle Pacific University, where I assist students with their programming assignments and projects. This role has honed my teaching skills and deepened my understanding of computer science concepts.<br><br>My educational journey has been enriched by my involvement in various research projects that intersect computer science and biology. These projects have prepared me for a career in biotechnology, where I aim to leverage my programming skills to solve complex biological problems.",
+  "School": "Seattle Pacific University",
+  "Major": "Computer Science",
+  "Graduation": "June 2025",
+  "EducationText": "I am pursuing a Bachelor of Science in Computer Science with a minor in Biology at Seattle Pacific University. My coursework and research focus on the intersection of technology and biology, preparing me for a career in biotechnology.",
+  "Employment": "Seattle Pacific University",
+  "Role": "Computer Science Lab Assistant",
+  "EmploymentText": "As a Computer Science Lab Assistant, I provide support to students in their programming courses, assist with lab exercises, and contribute to the development of educational materials.",
+  "Employment2": "Institute for Systems Biology",
+  "Role2": "Research Intern",
+  "EmploymentText2": "As a research intern I worked on two projects: a wet lab project researching the effects of ROS on <i>Mycorobacterium smegmatis</i>, and a compulational project building a predictive model for the interactions of sRNAs and mRNAS in <i>Mycrobacterium tuberculosis</i>.",
+  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
+  "SkillsText": "My skill set includes proficiency in C++, JavaScript, Node, CSS, HTML, and Python, with a growing expertise in bioinformatics. I am committed to applying these skills to advance the field of biotechnology.n",
+  "Resume": "weston-hanson-resume.pdf"  
+},
+"Project1": {
+    "Title": "Interesting Project 1",
+    "Desc": "This project is a mobile application that tracks a users drink intake. It shows calories, caffiene, sugar, total volume, and more.<br><br>It has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com/Manxi1/SPU_CSC3220_W24_T7_V2",
+    "MainImage": "Navigation.png",
+    "DetailImages": ["P1Detail1.png","P1Detail2.png","P1Detail3.png"]
+  },
+  "Project2": {
+    "Title": "Interesting Project 2",
+    "Desc": "This is a recration of Wordle in the console. It was a side project for extra credit in one of my classes. It acts the exact same as Wordle.<br><br>It also has a GitHub repo and more details shown in screenshots.",
+    "GitHubRepo": "https://github.com/WestonHanson/Wordle-Game-Weston-Hanson",
+    "MainImage": "wordle.jpg",
+    "DetailImages": ["P2Detail1.png","P2Detail2.png","P2Detail3.png","P2Detail4.png"]
+  },
+  "Project3": {
+    "Title": "Interesting Project 3",
+    "Desc": "This project is a web page for the company Acumen Land Group. It allows them to have a internet presence. I worked directly with the company to create exactly what they wanted on time and with precision.<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "https://github.com/WestonHanson/AcumenLandGroup",
+    "MainImage": "house-one.jpg",
+    "DetailImages": []
+  },
+  "Project4": {
+    "Title": "Interesting Project 4",
+    "Desc": "This is my seinor capstone project. It is a web application was desiged to help people with colorblindness or color deficiency. It allows users to upload an image and it will tell them the color. It also allows users to create outfits with a AI response that will tell the user if the outfit works. Then the user can save the outfit..<br><br>It does not have a GitHub repo or any additional screenshots.",
+    "GitHubRepo": "https://github.com/What-Color-SPU/What-Color",
+    "MainImage": "wc-icon.png",
+    "DetailImages": []
+  }
+}

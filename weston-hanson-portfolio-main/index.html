@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web Page</title>
+    <link rel="stylesheet" href="./Styles/style.css">
+</head>
+<body>
+    <div>
+        <nav id="menu">
+            <div>
+                <div class="self-photo">
+                    <a href="index.html">
+                        <img id="pfThumbnail" src="" alt="Return to main">
+                    </a>
+                </div>
+                <ul class="menu-list">
+                    <a href="index.html">
+                        <li>About</li>
+                    </a>
+                    <a href="projects.html">
+                        <li>Projects</li>
+                    </a>
+                    <a href="experience.html">
+                        <li>Experience</li>
+                    </a>
+                </ul>
+            </div>
+            <div class="icons">
+                <a id="pfLinkedIn" href="" target="_blank" rel="noopener noreferrer">
+                    <img src="./Icons/In-White-40@2x.png">
+                </a>
+                <a id="pfGitHub" href="" target="_blank" rel="noopener noreferrer">
+                    <img src="./Icons/github-mark-white.png" alt="">
+                </a>
+            </div>
+        </nav>
+    </div>
+    <div class="main-section">
+        <div class="about-header">
+            <div class="about-me-image">
+                <img id="pfHeadshot" src="" alt="Photo">
+            </div>
+            <div>
+                <h1 id="pfAboutName"></h1>
+                <p id="pfAboutTitle"></p>
+            </div>
+        </div>
+        <div class="about-section">
+            <div class="about-description">
+                <h2>About Me</h2>
+                <p id="pfAboutDesc"></p>
+            </div>
+        </div>
+        <div class="about-section">
+            <div class="contact-me">
+                <h2>Contact Me</h2>
+                <p><a id="pfEmail" href="mailto:">EMail</a></p>
+                <p><a id="pfPhone" href="tel:"></a></p>
+            </div>
+        </div>
+    </div>
+    <script type="module" src="./Scripts/GetAbout.js"></script>
+</body>
+</html>
